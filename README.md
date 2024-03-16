@@ -16,7 +16,7 @@
 <img align="center" src ="https://github-readme-stats.vercel.app/api?username=tnt305&theme=radical&hide_border=false&include_all_commits=false&count_private=true)" />
     </td>
     <td align="center">
-<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tnt305&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)"
+<img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=tnt305&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact"
 </td>
   </tr>
 </table>
