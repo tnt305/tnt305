@@ -1,7 +1,7 @@
 <p align="center">
   <h2 align="center">Greetings👋 ! I'm Thien Dang - you can call me ThomaDs for short. </h2>
 </p>
-<br><br><br>📌 Currently, I'm diving into Generative AI, particularly focusing on Diffusion and Colorization <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs), such as RAG and its advanced techniques<br>💓 Glad to connect via email if you feel our collab would be a great match
+<br>📌 Currently, I'm diving into Generative AI, particularly focusing on Diffusion and Colorization <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs), such as RAG and its advanced techniques<br>💓 Glad to connect via email if you feel our collab would be a great match
 
 
 ## 🌐 Socials:
