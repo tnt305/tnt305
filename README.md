@@ -6,6 +6,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=tnt305&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnt3o5) 
 # 💻 Tech Stack:
