@@ -2,9 +2,10 @@
   <h2 align="center">Greetings👋 ! I'm Thien Dang - ThomaDs for short </h2>
 </p>
 <br>📌 Currently, I'm diving into Generative AI, particularly focusing on Diffusion and Colorization <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs), such as RAG and its advanced techniques<br>💓 Glad to connect via email if you feel our collab would be a great match
+---
 
 [![](https://visitcount.itsvg.in/api?id=tnt305&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
----
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnt3o5) 
 # 💻 Tech Stack:
