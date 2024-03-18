@@ -2,7 +2,7 @@
   <h2 align="center">Greetings👋 ! I'm Thien Dang - ThomaDs for short </h2>
 </p>
 <br>📌 Currently, I'm diving into Generative AI, particularly focusing on Diffusion and Colorization <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs), such as RAG and its advanced techniques<br>💓 Glad to connect via email if you feel our collab would be a great match
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnt305&label=Profile%20views&color=red&style=flat" alt="tnt305" /> </p>
 
