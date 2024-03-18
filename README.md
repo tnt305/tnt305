@@ -7,6 +7,7 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnt305&label=Profile%20views&color=red&style=flat" alt="tnt305" /> </p>
 ---
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnt3o5) 
 # 💻 Tech Stack:
