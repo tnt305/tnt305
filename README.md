@@ -4,9 +4,8 @@
 <br>📌 Currently, I'm diving into Generative AI, particularly focusing on Diffusion and Colorization <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs), such as RAG and its advanced techniques<br>💓 Glad to connect via email if you feel our collab would be a great match
 
 
----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnt305&label=Profile%20views&color=red&style=flat" alt="tnt305" /> </p>
----
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tnt3o5) 
