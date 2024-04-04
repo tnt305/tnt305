@@ -1,7 +1,7 @@
 <p align="center">
   <h2 align="center">Greetings👋 ! I'm Thien Dang - ThomaDs for short </h2>
 </p>
-<br>📌 Currently, I'm diving into Generative AI, particularly focusing on Colorization using Diffusion <br>📌 I'm also exploring the latest trends in Large Language Models (LLMs) and deploying on Production<br>💓 Glad to connect via email if you feel our collab would be a great match
+<br>📌 Currently, I'm diving into Generative AI, particularly focusing on Colorization using Diffusion, aiming for first hand paper<br>📌 I'm also exploring the latest trends in Large Language Models (LLMs) including RAG++, Agents, Synthetic Data and other stuffs related to models merging<br>💓 Glad to connect via email if you feel our collab would be a great match
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tnt305&label=Profile%20views&color=red&style=flat" alt="tnt305" /> </p>
@@ -28,5 +28,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=tnt305&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ What do i think?
-> <div style="background-color: #ffffcc; padding: 10px; border-radius: 5px;">**I'm fking hate this job. But I can't quit - I'm addicted !!!**</div>
+> <div style="background-color: #ffffcc; padding: 10px; border-radius: 10px;">**I'm fking hate this job. But I can't quit - I'm addicted !!!**</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
